@@ -1,0 +1,9 @@
+route_id,origin,destination,km,toll,estimate_hours,zone,status
+RT0001,Jakarta,Bandung,145,125000,3,Jawa Barat,Active
+RT0002,Jakarta,Semarang,450,390000,8,Jawa Tengah,Active
+RT0003,Jakarta,Surabaya,780,710000,14,Jawa Timur,Active
+RT0004,Bandung,Semarang,360,315000,7,Jawa Tengah,Active
+RT0005,Semarang,Surabaya,350,305000,6,Jawa Timur,Active
+RT0006,Surabaya,Malang,95,85000,2,Jawa Timur,Active
+RT0007,Cikarang,Bandung,125,110000,3,Jawa Barat,Active
+RT0008,Cikarang,Surabaya,760,690000,14,Jawa Timur,Active

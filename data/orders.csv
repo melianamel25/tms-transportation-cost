@@ -1,0 +1,1 @@
+order_id,order_date,customer_id,customer_name,origin,destination,vehicle_group,cargo_weight_ton,trip_type,status,notes

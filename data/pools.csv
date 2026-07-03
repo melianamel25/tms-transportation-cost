@@ -1,0 +1,7 @@
+pool_id,pool_name,city,province,status
+POOL01,Jakarta,Jakarta,DKI Jakarta,Active
+POOL02,Cikarang,Cikarang,Jawa Barat,Active
+POOL03,Bandung,Bandung,Jawa Barat,Active
+POOL04,Semarang,Semarang,Jawa Tengah,Active
+POOL05,Surabaya,Surabaya,Jawa Timur,Active
+POOL06,Malang,Malang,Jawa Timur,Active

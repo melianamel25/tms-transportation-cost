@@ -1,0 +1,5 @@
+customer_id,customer_name,segment,city,pic,phone,status
+CUST0001,PT Nusantara Retail,Retail,Jakarta,Ibu Rina,0812-1000-0001,Active
+CUST0002,PT Jawa FMCG,FMCG,Surabaya,Pak Arif,0812-1000-0002,Active
+CUST0003,CV Bandung Distribusi,Distributor,Bandung,Ibu Maya,0812-1000-0003,Active
+CUST0004,PT Semarang Tekstil,Manufacturing,Semarang,Pak Dani,0812-1000-0004,Active

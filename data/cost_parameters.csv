@@ -1,0 +1,4 @@
+parameter,value,unit,notes
+fuel_price,6800,Rp/liter,Harga solar acuan
+rounding,10000,Rp,Pembulatan harga quotation
+min_margin_percent,15,%,Margin minimal komersial

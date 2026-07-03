@@ -1,0 +1,5 @@
+vehicle_group,capacity_ton,fuel_km_per_liter,maintenance_per_km,depreciation_per_km,driver_allowance_per_day,overhead_percent,margin_percent,status
+CDE,2.0,10.0,1500,800,175000,8,18,Active
+CDD,5.0,8.0,2000,1000,225000,8,20,Active
+Wingbox,8.0,5.0,3500,2000,300000,9,22,Active
+Trailer,20.0,3.0,5000,3500,450000,10,25,Active
